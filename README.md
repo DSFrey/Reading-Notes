@@ -20,4 +20,4 @@ A growth mindset acknowledges that humans are mutable; our knowledge and abiliti
 
 ## Reading Notes
 
-[Class -01 Reading assignment](https://dsfrey.github.io/Reading-Notes-102/Reading-01.md)
+[Class -01 Reading assignment](Reading-Notes-102/Reading-01.md)
