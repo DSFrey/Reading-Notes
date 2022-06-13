@@ -8,7 +8,10 @@ A growth mindset acknowledges that humans are mutable; our knowledge and abiliti
 ### Strategies
 
 1. **Perservere:** Accept that things may not work immediately. It takes effort to grow.
+
     > “If you are going through a time of discouragement, there is a time of great personal growth ahead.”
+    > 
     > \– Oswald Chambers
+
 3. **Explore:** use other people's creativity to encourage your own.
 4. **Reflect** When you learn something new, take a moment to step back and place that knowledge in a broader landscape.
