@@ -11,10 +11,12 @@ A growth mindset acknowledges that humans are mutable; our knowledge and abiliti
 
     > “If you are going through a time of discouragement, there is a time of great personal growth ahead.”
     > 
-    > – Oswald Chambers
+    > – [Oswald Chambers][1]
 
 3. **Explore:** use other people's creativity to encourage your own.
 4. **Reflect** When you learn something new, take a moment to step back and place that knowledge in a broader landscape.
+
+[1]: <https://www.azquotes.com/quote/561141>
 
 ## Reading Notes
 
