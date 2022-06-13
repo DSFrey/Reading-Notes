@@ -15,3 +15,7 @@ A growth mindset acknowledges that humans are mutable; our knowledge and abiliti
 
 3. **Explore:** use other people's creativity to encourage your own.
 4. **Reflect** When you learn something new, take a moment to step back and place that knowledge in a broader landscape.
+
+## Reading Notes
+
+[Class -01 Reading assignment](https://github.com/DSFrey/Reading-Notes-102)
