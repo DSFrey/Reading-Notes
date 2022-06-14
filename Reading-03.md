@@ -1,4 +1,4 @@
-##Git
+## Git
 
 Version control allows you to keep a history of files, track changes, and see who made them. Local version control does this for a
 single user. Centralized version control uses a single server to track multiple user's changes. Distributed version control allows
