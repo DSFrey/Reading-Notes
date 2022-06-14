@@ -1,4 +1,6 @@
-### Text Editors
+# Reading 2
+
+## Text Editors
 
 There are many text editors that can do the job well, so ultimately, the choice comes down to personal preference. There are, however some important features to consider.
 
@@ -9,7 +11,7 @@ There are many text editors that can do the job well, so ultimately, the choice 
 
 Related to text editors is the IDE, or Integrated Devlopment Environment. These programs include a text editor, file manager, compiler, and a debugger in one package.
 
-### The Command Line
+## The Command Line
 
 The command line or terminal allows a user to interface with the system bypassing the GUI. When interacting with the terminal, the first thing you write is the command. This can be followed by a number of arguments (each separated by a space) that will modify the the command given. Options are a specific type of argument that are listed before other arguments and denoted by an initial hyphen.
 
@@ -25,7 +27,6 @@ Paths to locations can be described in several different ways.
 - Relative: Does not begin with a slash and describes a directory within your current location
 - "~": A shortcut to your home directory.
 - ".": The current directory.
--  "..": The parent directory.
+- "..": The parent directory.
 
 Pressing the TAB key while typing a path will auto complete it, or if there are multiple options will let you cycle through them.
-

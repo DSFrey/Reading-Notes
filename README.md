@@ -1,4 +1,4 @@
-## Reading Notes
+# Reading Notes
 
 [Class -01 Reading assignment](Reading-01.md)
 
