@@ -31,7 +31,7 @@ When JavaScript reaches a return statement, the function will stop executing and
 |++|Increment|
 |--|Decrement|
 
-You can operate and assign a new value to the variable by adding an equals to the operator, e.g. `a =+ b` is adding a and b and then assigning the new value to a. The operator `+` can be also used to join strings together; when a number and a string are added, the output is also a string.
+You can operate and assign a new value to the variable by adding an equals to the operator, e.g. `a += b` is adding a and b and then assigning the new value to a. The operator `+` can be also used to join strings together; when a number and a string are added, the output is also a string.
 
 ### Comparison Operators
 
