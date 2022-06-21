@@ -33,3 +33,26 @@
     ||`5px`|
 
 ## Learn JS
+
+### JS Basics
+
+1. A String
+
+2. |Operator|Effect|
+    |---|---|
+    |`+`|Add two numbers or concatenate two strings|
+    |`=`|Assign value to variable|
+    |`===`|Compare two variables; returns true if they are the same type and same value|
+    |`!`|Negates the following expression or operator|
+
+3. You could take a list of variables and put them in an array.
+
+### Making Decisions In Your Code – Conditionals
+
+1. An `if` statement checks a condition and if it evaluates to `true`, then the code block will execute.
+
+2. An `else if` statement is used when there are more than two outcomes we want to test for.
+
+3. `===` and `!==` test if a value is identical or not identical to another value. `<` and `>` test if one value is greater than or less than another value.
+
+4. `&&` is the logical AND operator; it returns `true` only if both operands are `true`. The logical OR operator `||` only requires that one of the two operands is `true`.
