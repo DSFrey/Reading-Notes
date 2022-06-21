@@ -2,35 +2,23 @@
 
 ## Reading Notes 201
 
-[Reading 01](Reading-2-01.md)
-
-[Reading 02](Reading-2-02.md)
-
-[Reading 03](Reading-2-03.md)
-
-[Reading 04](Reading-2-04.md)
-
-[Reading 05](Reading-2-05.md)
-
-[Reading 06](Reading-2-06.md)
-
-[Reading 07](Reading-2-07.md)
-
-[Reading 08](Reading-2-08.md)
-
-[Reading 09](Reading-2-09.md)
-
-[Reading 10](Reading-2-12.md)
-
-[Reading 11](Reading-2-11.md)
-
-[Reading 12](Reading-2-12.md)
-
-[Reading 12](Reading-2-13.md)
-
-[Reading 14](Reading-2-14.md)
-
-[Reading 15](Reading-2-15.md)
+|Reading Number|Topic|
+|---|---|
+|[Reading 01](Reading-2-01.md)|Introductory HTML and JavaScript|
+|[Reading 02](Reading-2-02.md)|Basics of HTML, CSS & JS|
+|[Reading 03](Reading-2-03.md)
+|[Reading 04](Reading-2-04.md)
+|[Reading 05](Reading-2-05.md)
+|[Reading 06](Reading-2-06.md)
+|[Reading 07](Reading-2-07.md)
+|[Reading 08](Reading-2-08.md)
+|[Reading 09](Reading-2-09.md)
+|[Reading 10](Reading-2-12.md)
+|[Reading 11](Reading-2-11.md)
+|[Reading 12](Reading-2-12.md)
+|[Reading 12](Reading-2-13.md)
+|[Reading 14](Reading-2-14.md)
+|[Reading 15](Reading-2-15.md)
 
 ## Reading Notes 102
 
