@@ -7,7 +7,7 @@
 |[Reading 01](Reading-2-01.md)|Introductory HTML and JavaScript|
 |[Reading 02](Reading-2-02.md)|Basics of HTML, CSS & JS|
 |[Reading 03](Reading-2-03.md)|HTML Lists, CSS Boxes, JS Control Flow|
-|[Reading 04](Reading-2-04.md)
+|[Reading 04](Reading-2-04.md)|HTML Links, JS Functions, and Intro to CSS Layout|
 |[Reading 05](Reading-2-05.md)
 |[Reading 06](Reading-2-06.md)
 |[Reading 07](Reading-2-07.md)
