@@ -10,7 +10,7 @@
 |[Reading 04](Reading-2-04.md)|HTML Links, JS Functions, and Intro to CSS Layout|
 |[Reading 05](Reading-2-05.md)|HTML Images; CSS Color & Text|
 |[Reading 06](Reading-2-06.md)|Problem Domain, Objects, and the DOM|
-|[Reading 07](Reading-2-07.md)
+|[Reading 07](Reading-2-07.md)|Object-Oriented Programming and HTML Tables|
 |[Reading 08](Reading-2-08.md)
 |[Reading 09](Reading-2-09.md)
 |[Reading 10](Reading-2-12.md)
