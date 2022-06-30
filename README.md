@@ -12,7 +12,7 @@
 |[Reading 06](Reading-2-06.md)|Problem Domain, Objects, and the DOM|
 |[Reading 07](Reading-2-07.md)|Object-Oriented Programming and HTML Tables|
 |[Reading 08](Reading-2-08.md)|CSS Layout|
-|[Reading 09](Reading-2-09.md)
+|[Reading 09](Reading-2-09.md)|Forms and JS Events|
 |[Reading 10](Reading-2-12.md)
 |[Reading 11](Reading-2-11.md)
 |[Reading 12](Reading-2-12.md)
