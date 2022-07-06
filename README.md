@@ -15,7 +15,7 @@
 |[Reading 09](Reading-2-09.md)|Forms and JS Events|
 |[Reading 10](Reading-2-12.md)|Debugging|
 |[Reading 11](Reading-2-11.md)|Audio, Video, Images|
-|[Reading 12](Reading-2-12.md)
+|[Reading 12](Reading-2-12.md)|Chart.js, Canvas|
 |[Reading 12](Reading-2-13.md)
 |[Reading 14](Reading-2-14.md)
 |[Reading 15](Reading-2-15.md)
