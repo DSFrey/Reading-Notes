@@ -1,5 +1,11 @@
 # Reading Notes
 
+## Reading Notes 301
+
+|Reading Number|Topic|
+|---|---|
+|[Reading 01](Reading-3-01.md)||
+
 ## Reading Notes 201
 
 |Reading Number|Topic|
