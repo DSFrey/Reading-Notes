@@ -4,7 +4,7 @@
 
 |Reading Number|Topic|
 |---|---|
-|[Reading 01](Reading-3-01.md)||
+|[Reading 01](Reading-3-01.md)|Introduction to React and Components|
 
 ## Reading Notes 201
 
