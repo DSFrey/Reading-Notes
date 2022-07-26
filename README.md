@@ -5,6 +5,7 @@
 |Reading Number|Topic|
 |---|---|
 |[Reading 01](Reading-3-01.md)|Introduction to React and Components|
+|[Reading 02](Reading-3-02.md)|State and Props|
 
 ## Reading Notes 201
 
