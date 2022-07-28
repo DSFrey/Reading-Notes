@@ -6,7 +6,8 @@
 |---|---|
 |[Reading 01](Reading-3-01.md)|Introduction to React and Components|
 |[Reading 02](Reading-3-02.md)|State and Props|
-|[Reading 02](Reading-3-03.md)|Passing Functions as Props|
+|[Reading 03](Reading-3-03.md)|Passing Functions as Props|
+|[Reading 04](Reading-3-04.md)|React and Forms|
 
 ## Reading Notes 201
 
