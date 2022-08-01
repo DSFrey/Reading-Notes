@@ -9,6 +9,7 @@
 |[Reading 03](Reading-3-03.md)|Passing Functions as Props|
 |[Reading 04](Reading-3-04.md)|React and Forms|
 |[Reading 05](Reading-3-05.md)|Putting it all together|
+|[Reading 06](Reading-3-06.md)|NODE.JS|
 
 ## Reading Notes 201
 
