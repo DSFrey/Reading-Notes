@@ -12,6 +12,7 @@
 |[Reading 06](Reading-3-06.md)|NODE.JS|
 |[Reading 07](Reading-3-07.md)|REST|
 |[Reading 08](Reading-3-08.md)|APIs|
+|[Reading 09](Reading-3-09.md)|Functional Programming|
 
 ## Reading Notes 201
 
