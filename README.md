@@ -13,6 +13,7 @@
 |[Reading 07](Reading-3-07.md)|REST|
 |[Reading 08](Reading-3-08.md)|APIs|
 |[Reading 09](Reading-3-09.md)|Functional Programming|
+|[Reading 10](Reading-3-10.md)|In memory storage|
 
 ## Reading Notes 201
 
