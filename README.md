@@ -15,6 +15,7 @@
 |[Reading 09](Reading-3-09.md)|Functional Programming|
 |[Reading 10](Reading-3-10.md)|In memory storage|
 |[Reading 11](Reading-3-11.md)|Mongo and Mongoose|
+|[Reading 12](Reading-3-12.md)|CRUD|
 
 ## Reading Notes 201
 
