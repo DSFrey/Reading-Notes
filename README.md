@@ -16,6 +16,8 @@
 |[Reading 10](Reading-3-10.md)|In memory storage|
 |[Reading 11](Reading-3-11.md)|Mongo and Mongoose|
 |[Reading 12](Reading-3-12.md)|CRUD|
+|[Reading 13](Reading-3-13.md)|More CRUD|
+|[Reading 14](Reading-3-14.md)|Diversity & Inclusion in the Tech Industry|
 
 ## Reading Notes 201
 
