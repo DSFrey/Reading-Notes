@@ -18,6 +18,7 @@
 |[Reading 12](Reading-3-12.md)|CRUD|
 |[Reading 13](Reading-3-13.md)|More CRUD|
 |[Reading 14](Reading-3-14.md)|Diversity & Inclusion in the Tech Industry|
+|[Reading 15](Reading-3-15.md)|Authentication|
 
 ## Reading Notes 201
 
