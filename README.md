@@ -5,6 +5,7 @@
 |Prework|
 |---|
 |[The Command Line](code401/prework/command-line.md)|
+|[SQL Practice](code401/prework/sql-practice.md)|
 
 ## Reading Notes 301
 
