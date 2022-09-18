@@ -7,6 +7,7 @@
 |[The Command Line](code401/prework/command-line.md)|
 |[SQL Practice](code401/prework/sql-practice.md)|
 |[Data Structures and Algorithms](code401/prework/dsa.md)|
+|[Git Practice](code401/prework/git.md)|
 
 ## Reading Notes 301
 
