@@ -2,6 +2,11 @@
 
 ## Reading Notes 401
 
+|Reading Number|Topic|
+|---|---|
+|[Reading 01](code401/Reading-4-01.md)|Node Ecosystem|
+|[Reading 02](code401/Reading-4-02.md)|Express, NPM, TDD, CI/CD|
+
 |Prework|
 |---|
 |[The Command Line](code401/prework/command-line.md)|
