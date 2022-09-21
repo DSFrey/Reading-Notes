@@ -6,6 +6,7 @@
 |---|---|
 |[Reading 01](code401/Reading-4-01.md)|Node Ecosystem|
 |[Reading 02](code401/Reading-4-02.md)|Express, NPM, TDD, CI/CD|
+|[Reading 03](code401/Reading-4-03.md)|Express REST API|
 
 |Prework|
 |---|
