@@ -8,6 +8,7 @@
 |[Reading 02](code401/Reading-4-02.md)|Express, NPM, TDD, CI/CD|
 |[Reading 03](code401/Reading-4-03.md)|Express REST API|
 |[Reading 04](code401/Reading-4-04.md)|Data Modeling|
+|[Reading 06](code401/Reading-4-06.md)|Authentication|
 
 |Prework|
 |---|
