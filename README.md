@@ -9,6 +9,7 @@
 |[Reading 03](code401/Reading-4-03.md)|Express REST API|
 |[Reading 04](code401/Reading-4-04.md)|Data Modeling|
 |[Reading 06](code401/Reading-4-06.md)|Authentication|
+|[Reading 07](code401/Reading-4-07.md)|Bearer Authorization|
 
 |Prework|
 |---|
