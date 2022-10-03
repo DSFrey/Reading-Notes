@@ -11,6 +11,7 @@
 |[Reading 06](code401/Reading-4-06.md)|Authentication|
 |[Reading 07](code401/Reading-4-07.md)|Bearer Authorization|
 |[Reading 08](code401/Reading-4-08.md)|Access Control|
+|[Reading 08](code401/Reading-4-10.md)|Event Driven Applications|
 
 |Prework|
 |---|
