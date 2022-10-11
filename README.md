@@ -15,6 +15,7 @@
 |[Reading 12](code401/Reading-4-12.md)|Socket.io|
 |[Reading 13](code401/Reading-4-13.md)|Message Queues|
 |[Reading 16](code401/Reading-4-16.md)|AWS: Cloud Servers|
+|[Reading 17](code401/Reading-4-17.md)|AWS: S3 and Lambda|
 
 |Prework|
 |---|
