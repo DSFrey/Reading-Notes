@@ -16,6 +16,7 @@
 |[Reading 13](code401/Reading-4-13.md)|Message Queues|
 |[Reading 16](code401/Reading-4-16.md)|AWS: Cloud Servers|
 |[Reading 17](code401/Reading-4-17.md)|AWS: S3 and Lambda|
+|[Reading 18](code401/Reading-4-18.md)|AWS: API, Dynamo and Lambda|
 
 |Prework|
 |---|
