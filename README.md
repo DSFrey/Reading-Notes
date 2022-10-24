@@ -18,6 +18,7 @@
 |[Reading 17](code401/Reading-4-17.md)|AWS: S3 and Lambda|
 |[Reading 18](code401/Reading-4-18.md)|AWS: API, Dynamo and Lambda|
 |[Reading 19](code401/Reading-4-19.md)|AWS: Events|
+|[Reading 26](code401/Reading-4-26.md)|Component Based UI|
 
 |Prework|
 |---|
