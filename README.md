@@ -21,6 +21,7 @@
 |[Reading 26](code401/Reading-4-26.md)|Component Based UI|
 |[Reading 27](code401/Reading-4-27.md)|useState() Hook|
 |[Reading 28](code401/Reading-4-28.md)|Component Lifecycle / useEffect Hook|
+|[Reading 29](code401/Reading-4-29.md)|Advanced State with Reducers|
 
 |Prework|
 |---|
