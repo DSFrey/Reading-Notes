@@ -24,6 +24,7 @@
 |[Reading 29](code401/Reading-4-29.md)|Advanced State with Reducers|
 |[Reading 31](code401/Reading-4-31.md)|Context API|
 |[Reading 32](code401/Reading-4-32.md)|Context API - Behaviors|
+|[Reading 33](code401/Reading-4-33.md)|`Login` and `Auth`|
 
 |Prework|
 |---|
