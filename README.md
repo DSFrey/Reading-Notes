@@ -25,6 +25,7 @@
 |[Reading 31](code401/Reading-4-31.md)|Context API|
 |[Reading 32](code401/Reading-4-32.md)|Context API - Behaviors|
 |[Reading 33](code401/Reading-4-33.md)|`Login` and `Auth`|
+|[Reading 34](code401/Reading-4-34.md)|API Integration|
 
 |Prework|
 |---|
