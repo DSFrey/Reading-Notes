@@ -26,6 +26,8 @@
 |[Reading 32](code401/Reading-4-32.md)|Context API - Behaviors|
 |[Reading 33](code401/Reading-4-33.md)|`Login` and `Auth`|
 |[Reading 34](code401/Reading-4-34.md)|API Integration|
+|[Reading 36](code401/Reading-4-36.md)|Application State with Redux|
+|[Reading 37](code401/Reading-4-37.md)|Redux - Combined Reducers|
 
 |Prework|
 |---|
